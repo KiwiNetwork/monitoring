@@ -1,4 +1,7 @@
 # Moitoring
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef8133a1b3944b3db9fbd0830f10b432)](https://www.codacy.com/app/jdebetaz/monitoring?utm_source=github.com&utm_medium=referral&utm_content=KiwiNetwork/monitoring&utm_campaign=badger)
+
 Simple monitoring based on NodeJS
 
 ### Prerequisites
